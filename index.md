@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
+title: Home
 ---
 I’m a social psychology grad student with diverse research interests ranging from morality to metascience.
 
