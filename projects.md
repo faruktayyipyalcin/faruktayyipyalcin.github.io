@@ -3,8 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-###Overview
-My research interests are broadly about morality and metascience. Below is a table that summarizes them:
+My research interests are broadly about morality and metascience. Below is a table that summarizes the projects I'm working on:
 
 | Project | Area | Status | Description |
 |----------|-------|---------|-------------|
