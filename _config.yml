@@ -1,0 +1,45 @@
+title: Faruk T. Yalcin
+description: Social Psychology PhD Student @ Penn State
+url: "https://faruktayyipyalcin.github.io"
+baseurl: ""                        
+theme: minima                  
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+author:
+  name: Faruk T. Yalcin
+  email: fty5005@psu.edu
+  orcid: 0009-0004-0660-067X
+  scholar: https://scholar.google.com/citations?user=tzADb9oAAAAJ&hl=en&oi=ao
+  osf: https://osf.io/user/yg6wh
+  github: https://github.com/faruktayyipyalcin
+  
+
+# Top nav 
+header_pages:
+  - about.md
+  - publications/index.md
+  - projects.md
+  - cv.md
+
+# Nice URLs
+permalink: /:categories/:title/
+
+# Collections for growth 
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
+  talks:
+    output: true
+    permalink: /talks/:name/
+
+# Exclusions 
+exclude:
+  - README.md
+  - node_modules
+  - vendor
+  - scripts
