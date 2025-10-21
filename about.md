@@ -11,3 +11,6 @@ I’m a social psychology grad student with diverse research interests ranging f
 - [OSF](https://osf.io/yg6wh/)  
 - [GitHub](https://github.com/faruktayyipyalcin)  
 - [Empathy & Moral Psychology Lab, Penn State](https://emplab.la.psu.edu/)
+
+
+**Download CV (PDF):** [Faruk_CV.pdf](/assets/cv/Faruk_CV.pdf)  
