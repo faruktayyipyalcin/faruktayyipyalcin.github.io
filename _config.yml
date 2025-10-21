@@ -20,7 +20,6 @@ author:
 
 # Top nav 
 header_pages:
-  - about.md
   - publications/index.md
   - projects.md
   - cv.md
